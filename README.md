@@ -20,7 +20,7 @@
 - JavaScript
 
 ## Links
-- **Preview:** [DEMO LINK](https://yepolotn1ak.github.io/js_2048_game/)
+- **Preview:** [DEMO LINK](https://yepolotn1ak.github.io/js-2048-game/)
 - **Mockup:** [Original 2048](https://play2048.co/)
 
 ## Launch Instructions
