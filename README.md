@@ -21,7 +21,7 @@
 
 ## Links
 - **Preview:** [DEMO LINK](https://yepolotn1ak.github.io/js_2048_game/)
-- **Mockup:** [Figma Design](https://play2048.co/)
+- **Mockup:** [Original 2048](https://play2048.co/)
 
 ## Launch Instructions
 1. **Fork** the repo.
